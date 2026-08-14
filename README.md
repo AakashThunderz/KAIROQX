@@ -62,8 +62,8 @@ I build automation tools, Discord bots, and machine learning projects, and I'm a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AakashThunderz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashThunderz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=AakashThunderz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashThunderz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />-->
 
 <img src="https://streak-stats.demolab.com/?user=AakashThunderz&theme=tokyonight&hide_border=true" width="70%" />
 
@@ -71,16 +71,6 @@ I build automation tools, Discord bots, and machine learning projects, and I'm a
 
 </div>
 
-<details>
-<summary><b>🏆 Trophies</b></summary>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AakashThunderz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-
-</div>
-
-</details>
 
 <br/>
 
