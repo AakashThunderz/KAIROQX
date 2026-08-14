@@ -1,15 +1,15 @@
 <!--
   ============================================================
-  GITHUB PROFILE README — Aakash Nishad (KairoqX)
+  GITHUB PROFILE README — Aakash Nishad (AakashThunderz)
   ============================================================
   HOW TO USE:
-  1. Replace every instance of "KairoqX" with your GitHub username
+  1. Replace every instance of "AakashThunderz" with your GitHub username
      (only if it changes — currently already set correctly).
   2. Replace all `your-link-here` / `#` placeholders under
      "Connect" and "Featured Projects" with your real URLs.
   3. Replace WakaTime / LeetCode / Codeforces / HackerRank /
      Dev.to / Medium usernames where marked.
-  4. This repo must be named exactly "KairoqX" (same as your
+  4. This repo must be named exactly "AakashThunderz" (same as your
      GitHub username) for the profile README to render on
      your profile page.
   ============================================================
@@ -29,19 +29,19 @@
 
 <!-- Socials -->
 <p>
-  <a href="https://github.com/KairoqX"><img src="https://img.shields.io/badge/GitHub-KairoqX-8A5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://github.com/AakashThunderz"><img src="https://img.shields.io/badge/GitHub-AakashThunderz-8A5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
   <a href="https://linkedin.com/in/your-link-here"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
   <a href="https://twitter.com/your-link-here"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=KairoqX&label=Profile%20Views&color=8A5CF6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=AakashThunderz&label=Profile%20Views&color=8A5CF6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/KairoqX/KairoqX/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/AakashThunderz/AakashThunderz/main/assets/divider.svg" width="100%" alt=""/>
 
 <!--
   If you don't have a custom SVG divider, delete the line above and
@@ -57,7 +57,7 @@ I'm **Aakash Nishad**, a Python developer and AI/ML student who enjoys building 
 
 ```yaml
 name: "Aakash Nishad"
-alias: "KairoqX"
+alias: "AakashThunderz"
 role: ["Python Developer", "AI/ML Student", "Linux Enthusiast", "OSS Contributor"]
 current_focus: "Deepening my ML fundamentals + building production-ready automation tools"
 learning: ["Deep Learning", "System Design", "Cybersecurity Basics"]
@@ -69,7 +69,7 @@ fun_fact: "I've broken my Linux install more times than I can count — and fixe
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KairoqX/KairoqX/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/AakashThunderz/AakashThunderz/main/assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
@@ -113,7 +113,7 @@ fun_fact: "I've broken my Linux install more times than I can count — and fixe
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KairoqX/KairoqX/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/AakashThunderz/AakashThunderz/main/assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
@@ -131,7 +131,7 @@ Modular Discord bot with moderation, custom commands, and event-driven automatio
 **Stack:** `Python` `discord.py` `SQLite`
 **Status:** ![Active](https://img.shields.io/badge/Status-Active-8A5CF6?style=flat-square)
 
-[`View Repository →`](https://github.com/KairoqX/your-link-here)
+[`View Repository →`](https://github.com/AakashThunderz/your-link-here)
 
 </td>
 <td width="50%">
@@ -142,7 +142,7 @@ Deep learning model for image classification with a trained CNN and inference AP
 **Stack:** `Python` `PyTorch` `FastAPI`
 **Status:** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-2563EB?style=flat-square)
 
-[`View Repository →`](https://github.com/KairoqX/your-link-here)
+[`View Repository →`](https://github.com/AakashThunderz/your-link-here)
 
 </td>
 </tr>
@@ -155,7 +155,7 @@ Collection of machine learning models for regression/classification experiments 
 **Stack:** `Python` `Scikit-learn` `Pandas` `NumPy`
 **Status:** ![Active](https://img.shields.io/badge/Status-Active-8A5CF6?style=flat-square)
 
-[`View Repository →`](https://github.com/KairoqX/your-link-here)
+[`View Repository →`](https://github.com/AakashThunderz/your-link-here)
 
 </td>
 <td width="50%">
@@ -166,7 +166,7 @@ Lightweight CLI tool for scanning local networks and flagging common vulnerabili
 **Stack:** `Python` `Bash` `Linux`
 **Status:** ![Maintained](https://img.shields.io/badge/Status-Maintained-2563EB?style=flat-square)
 
-[`View Repository →`](https://github.com/KairoqX/your-link-here)
+[`View Repository →`](https://github.com/AakashThunderz/your-link-here)
 
 </td>
 </tr>
@@ -179,7 +179,7 @@ Personal Linux environment configs, shell scripts, and automated setup tooling.
 **Stack:** `Bash` `Linux` `Git`
 **Status:** ![Active](https://img.shields.io/badge/Status-Active-8A5CF6?style=flat-square)
 
-[`View Repository →`](https://github.com/KairoqX/your-link-here)
+[`View Repository →`](https://github.com/AakashThunderz/your-link-here)
 
 </td>
 <td width="50%">
@@ -200,7 +200,7 @@ Personal developer portfolio showcasing projects, blog posts, and skills.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KairoqX/KairoqX/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/AakashThunderz/AakashThunderz/main/assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
@@ -217,7 +217,7 @@ I contribute to open source when I find projects I genuinely care about — fixi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KairoqX/KairoqX/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/AakashThunderz/AakashThunderz/main/assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
@@ -225,12 +225,12 @@ I contribute to open source when I find projects I genuinely care about — fixi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KairoqX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A5CF6&icon_color=2563EB&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairoqX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A5CF6&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AakashThunderz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A5CF6&icon_color=2563EB&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashThunderz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A5CF6&text_color=c9d1d9" width="49%" />
 
-<img src="https://streak-stats.demolab.com/?user=KairoqX&theme=tokyonight&hide_border=true&background=0d1117&ring=8A5CF6&fire=2563EB&currStreakLabel=8A5CF6" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=AakashThunderz&theme=tokyonight&hide_border=true&background=0d1117&ring=8A5CF6&fire=2563EB&currStreakLabel=8A5CF6" width="70%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KairoqX&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8A5CF6&line=2563EB&point=ffffff" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AakashThunderz&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8A5CF6&line=2563EB&point=ffffff" width="90%" />
 
 </div>
 
@@ -239,7 +239,7 @@ I contribute to open source when I find projects I genuinely care about — fixi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KairoqX&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=AakashThunderz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
 
 </div>
 
@@ -257,7 +257,7 @@ I contribute to open source when I find projects I genuinely care about — fixi
   2. Once it runs, it will output an SVG to the path below.
   Until then, this image will not render.
 -->
-<img src="https://raw.githubusercontent.com/KairoqX/KairoqX/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/AakashThunderz/AakashThunderz/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
@@ -265,7 +265,7 @@ I contribute to open source when I find projects I genuinely care about — fixi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KairoqX/KairoqX/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/AakashThunderz/AakashThunderz/main/assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
@@ -294,7 +294,7 @@ I contribute to open source when I find projects I genuinely care about — fixi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KairoqX/KairoqX/main/assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/AakashThunderz/AakashThunderz/main/assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
@@ -302,7 +302,7 @@ I contribute to open source when I find projects I genuinely care about — fixi
 
 <div align="center">
 
-<a href="https://github.com/KairoqX"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/AakashThunderz"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://linkedin.com/in/your-link-here"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/your-link-here"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://discord.com/users/your-link-here"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
