@@ -5,20 +5,20 @@
   ONE-TIME SETUP NEEDED FOR THE SNAKE ANIMATION:
   The contribution snake near the bottom needs a GitHub Action to generate it.
   Steps:
-  1. In this repo, go to Settings → Actions → General → enable "Read and write permissions".
+  1. In this repo, go to Settings  Actions  General  enable "Read and write permissions".
   2. Create a file at .github/workflows/snake.yml with the workflow from
      https://github.com/Platane/snk (the "Setup" section, README).
   3. Run the workflow once (or wait for its daily schedule).
-  Until that runs, the snake image below will show as broken — that's expected.
+  Until that runs, the snake image below will show as broken  that's expected.
 -->
 
 <div align="center">
 
 <!-- Wave / Gradient Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aakash%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=aka%20KairoqX&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aakash%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35[...]
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8A5CF6&center=true&vCenter=true&width=600&lines=Python+Developer;AI+%2F+ML+Student;Linux+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8A5CF6&center=true&vCenter=true&width=600&lines=Python+Developer;AI+%2F+ML+Student;[...]
 
 
 </div>
@@ -76,7 +76,7 @@ I build automation tools, Discord bots, and machine learning projects, and I'm a
 
 <!-- Contribution Snake — see setup note at top of file -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/AakashThunderz/AakashThunderz/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/AakashThunderz/KAIROQX/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 </div>
 
 <br/>
