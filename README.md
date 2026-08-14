@@ -1,18 +1,35 @@
 <!--
-  Replace "KairoqX" below with your GitHub username if it ever changes.
-  Replace the social links in the "Connect" section with your real URLs.
-  This file must be README.md inside a repo named exactly "KairoqX".
+  Replace "AakashThunderz" below with your GitHub username if it ever changes.
+  This file must be README.md inside a repo named exactly "AakashThunderz".
+
+  ONE-TIME SETUP NEEDED FOR THE SNAKE ANIMATION:
+  The contribution snake near the bottom needs a GitHub Action to generate it.
+  Steps:
+  1. In this repo, go to Settings → Actions → General → enable "Read and write permissions".
+  2. Create a file at .github/workflows/snake.yml with the workflow from
+     https://github.com/Platane/snk (the "Setup" section, README).
+  3. Run the workflow once (or wait for its daily schedule).
+  Until that runs, the snake image below will show as broken — that's expected.
 -->
 
 <div align="center">
 
-# Hi, I'm Aakash or you can say KairoqX 👋
+<!-- Wave / Gradient Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aakash%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=aka%20KairoqX&descAlignY=55&descSize=18" width="100%"/>
 
-Python Developer • AI/ML Student • Linux Enthusiastw
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8A5CF6&center=true&vCenter=true&width=600&lines=Python+Developer;AI+%2F+ML+Student;Linux+Enthusiast" alt="Typing SVG" />
+
+<!-- Profile View Counter -->
+<img src="https://komarev.com/ghpvc/?username=AakashThunderz&label=Profile%20Views&color=8A5CF6&style=flat-square" alt="Profile Views"/>
+
+</div>
+
+<br/>
 
 I build automation tools, Discord bots, and machine learning projects, and I'm always learning something new about Linux and AI.
 
-</div>
+🔭 Currently working on: **an AI-powered Discord bot with a machine learning backend.**
 
 <br/>
 
@@ -31,6 +48,18 @@ I build automation tools, Discord bots, and machine learning projects, and I'm a
 
 <br/>
 
+## 🚀 Featured Projects
+
+<!-- Replace the # links below with your actual repo URLs -->
+
+**[Discord Automation Bot](https://github.com/Code-Nexus-Lab/Hatsune-Miku-CN-Bot)** — Modular Discord bot with moderation, custom commands, and event-driven automation. `Python` `discord.py`
+
+**[A small Language Model](https://github.com/AakashThunderz/micro-gpt)** — CNN-based image classifier with a FastAPI inference endpoint. `Python` `PyTorch` `FastAPI`
+
+<!--**[Dotfiles & Linux Setup](#)** — Personal Linux environment configs and automated setup scripts. `Bash` `Linux`-->
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -38,18 +67,39 @@ I build automation tools, Discord bots, and machine learning projects, and I'm a
 <img src="https://github-readme-stats.vercel.app/api?username=AakashThunderz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashThunderz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
+<img src="https://streak-stats.demolab.com/?user=AakashThunderz&theme=tokyonight&hide_border=true" width="70%" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AakashThunderz&theme=tokyo-night&hide_border=true" width="97%" />
 
+</div>
+
+<details>
+<summary><b>🏆 Trophies</b></summary>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AakashThunderz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+
+</div>
+
+</details>
+
+<br/>
+
+<!-- Contribution Snake — see setup note at top of file -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/AakashThunderz/AakashThunderz/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 </div>
 
 <br/>
 
 ## 📫 Connect
- 
+
 <div align="center">
+
 <a href="https://github.com/AakashThunderz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://x.com/kairoqx"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://instagram.com/_kairoqx_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:your-kairoqx@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- 
+<a href="mailto:kairoqx@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 </div>
