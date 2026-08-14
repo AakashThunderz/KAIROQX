@@ -5,7 +5,7 @@
   ONE-TIME SETUP NEEDED FOR THE SNAKE ANIMATION:
   The contribution snake near the bottom needs a GitHub Action to generate it.
   Steps:
-  1. In this repo, go to Settings  Actions  General  enable "Read and write permissions".
+  1. In this repo, go to Settings   Actions  General  enable "Read and write permissions".
   2. Create a file at .github/workflows/snake.yml with the workflow from
      https://github.com/Platane/snk (the "Setup" section, README).
   3. Run the workflow once (or wait for its daily schedule).
@@ -15,10 +15,10 @@
 <div align="center">
 
 <!-- Wave / Gradient Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aakash%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35[...]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aakash%20Thunderz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8A5CF6&center=true&vCenter=true&width=600&lines=Python+Developer;AI+%2F+ML+Student;[...]
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8A5CF6&center=true&vCenter=true&width=600&lines=Python+Developer;AI+%2F+ML+Student;Automation+Enthusiast" />
 
 
 </div>
