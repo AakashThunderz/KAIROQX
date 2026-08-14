@@ -15,7 +15,7 @@
 <div align="center">
 
 <!-- Wave / Gradient Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aakash%20Thunderz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aakash%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=aka%20KairoqX&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8A5CF6&center=true&vCenter=true&width=600&lines=Python+Developer;AI+%2F+ML+Student;Automation+Enthusiast" />
