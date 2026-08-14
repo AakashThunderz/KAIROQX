@@ -20,8 +20,6 @@
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8A5CF6&center=true&vCenter=true&width=600&lines=Python+Developer;AI+%2F+ML+Student;Linux+Enthusiast" alt="Typing SVG" />
 
-<!-- Profile View Counter -->
-<img src="https://komarev.com/ghpvc/?username=AakashThunderz&label=Profile%20Views&color=8A5CF6&style=flat-square" alt="Profile Views"/>
 
 </div>
 
