@@ -1,6 +1,6 @@
 <!--
-  Replace "AakashThunderz" below with your GitHub username if it ever changes.
-  This file must be README.md inside a repo named exactly "AakashThunderz".
+  Replace "KairoqX" below with your GitHub username if it ever changes.
+  This file must be README.md inside a repo named exactly "KairoqX".
 
   ONE-TIME SETUP NEEDED FOR THE SNAKE ANIMATION:
   The contribution snake near the bottom needs a GitHub Action to generate it.
@@ -51,7 +51,7 @@ I build automation tools, Discord bots, and machine learning projects, and I'm a
 
 **[Discord Automation Bot](https://github.com/Code-Nexus-Lab/Hatsune-Miku-CN-Bot)** — Modular Discord bot with moderation, custom commands, and event-driven automation. `Python` `discord.py`
 
-**[A small Language Model](https://github.com/AakashThunderz/micro-gpt)** — CNN-based image classifier with a FastAPI inference endpoint. `Python` `PyTorch` `FastAPI`
+**[A small Language Model](https://github.com/KairoqX/micro-gpt)** — CNN-based image classifier with a FastAPI inference endpoint. `Python` `PyTorch` `FastAPI`
 
 <!--**[Dotfiles & Linux Setup](#)** — Personal Linux environment configs and automated setup scripts. `Bash` `Linux`-->
 
@@ -61,12 +61,12 @@ I build automation tools, Discord bots, and machine learning projects, and I'm a
 
 <div align="center">
 
-<!--<img src="https://github-readme-stats.vercel.app/api?username=AakashThunderz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashThunderz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />-->
+<!--<img src="https://github-readme-stats.vercel.app/api?username=KairoqX&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KairoqX&layout=compact&theme=tokyonight&hide_border=true" width="48%" />-->
 
-<img src="https://streak-stats.demolab.com/?user=AakashThunderz&theme=tokyonight&hide_border=true&cache_bypass=1" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=KairoqX&theme=tokyonight&hide_border=true&cache_bypass=1" width="70%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AakashThunderz&theme=tokyo-night&hide_border=true&count_private=true" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KairoqX&theme=tokyo-night&hide_border=true&count_private=true" width="97%" />
 
 </div>
 
@@ -74,7 +74,7 @@ I build automation tools, Discord bots, and machine learning projects, and I'm a
 
 <!-- Contribution Snake — see setup note at top of file -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/AakashThunderz/AakashThunderz/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/KairoqX/KairoqX/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 </div>
 
 <br/>
@@ -83,7 +83,7 @@ I build automation tools, Discord bots, and machine learning projects, and I'm a
 
 <div align="center">
 
-<a href="https://github.com/AakashThunderz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/KairoqX"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://x.com/kairoqx"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://instagram.com/_kairoqx_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:kairoqx@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
