@@ -67,7 +67,7 @@ I build automation tools, Discord bots, and machine learning projects, and I'm a
 
 <img src="https://streak-stats.demolab.com/?user=AakashThunderz&theme=tokyonight&hide_border=true" width="70%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AakashThunderz&theme=tokyo-night&hide_border=true" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AakashThunderz&theme=tokyo-night&hide_border=true&&count_private=true" width="97%" />
 
 </div>
 
