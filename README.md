@@ -5,11 +5,11 @@
   ONE-TIME SETUP NEEDED FOR THE SNAKE ANIMATION:
   The contribution snake near the bottom needs a GitHub Action to generate it.
   Steps:
-  1. In this repo, go to Settings   Actions  General  enable "Read and write permissions".
+  1. In this repo, go to Settings → Actions → General → enable "Read and write permissions".
   2. Create a file at .github/workflows/snake.yml with the workflow from
      https://github.com/Platane/snk (the "Setup" section, README).
   3. Run the workflow once (or wait for its daily schedule).
-  Until that runs, the snake image below will show as broken  that's expected.
+  Until that runs, the snake image below will show as broken — that's expected.
 -->
 
 <div align="center">
@@ -19,7 +19,6 @@
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8A5CF6&center=true&vCenter=true&width=600&lines=Python+Developer;AI+%2F+ML+Student;Automation+Enthusiast" />
-
 
 </div>
 
@@ -65,18 +64,17 @@ I build automation tools, Discord bots, and machine learning projects, and I'm a
 <!--<img src="https://github-readme-stats.vercel.app/api?username=AakashThunderz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashThunderz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />-->
 
-<img src="https://streak-stats.demolab.com/?user=AakashThunderz&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=AakashThunderz&theme=tokyonight&hide_border=true&cache_bypass=1" width="70%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AakashThunderz&theme=tokyo-night&hide_border=true&&count_private=true" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AakashThunderz&theme=tokyo-night&hide_border=true&count_private=true" width="97%" />
 
 </div>
-
 
 <br/>
 
 <!-- Contribution Snake — see setup note at top of file -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/AakashThunderz/KAIROQX/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/AakashThunderz/AakashThunderz/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 </div>
 
 <br/>
